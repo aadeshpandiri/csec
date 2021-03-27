@@ -45,7 +45,7 @@
 		// Button.
 			$(
 				'<div id="navButton">' +
-					'<div id = "mtopLogoDiv"><h1 id = "mlogoText">CVR CSE-E Online Classes Links</h1></div>'+
+					'<div id = "mtopLogoDiv"><h1 id = "mlogoText">CVR CSE-C Online Classes Links</h1></div>'+
 					'<a href="#navPanel" class="toggle"></a>' +
 				'</div>'
 				
